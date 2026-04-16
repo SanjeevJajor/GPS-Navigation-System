@@ -2,8 +2,8 @@
 ### 👥 Contributors
 ->Sunayana Sinha
 ->Arun Saini
-<a href="https://github.com/your-username/repo-name/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=your-username/repo-name" />
+<a href="https://github.com/GPSNav.C/undefined/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=GPSNav.C/undefined" />
 </a>
 # 🚀 Chandigarh Smart Route Finder (Dijkstra Algorithm in C)
 
