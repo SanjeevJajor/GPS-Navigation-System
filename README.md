@@ -2,9 +2,10 @@
 ### 👥 Contributors
 ->Sunayana Sinha
 ->Arun Saini
-<a href="https://github.com/GPSNav.C/undefined/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=GPSNav.C/undefined" />
+<a href="https://github.com/SanjeevJajor/GPS-Navigation-System.git/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=SanjeevJajor/GPS-Navigation-System.git" />
 </a>
+
 # 🚀 Chandigarh Smart Route Finder (Dijkstra Algorithm in C)
 
 A simple yet powerful C-based project that finds the **shortest path between major locations in Chandigarh** using the **Dijkstra Algorithm**.
