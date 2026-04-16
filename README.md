@@ -1,4 +1,10 @@
 # GPS-Navigation-System
+### 👥 Contributors
+->Sunayana Sinha
+->Arun Saini
+<a href="https://github.com/your-username/repo-name/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=your-username/repo-name" />
+</a>
 # 🚀 Chandigarh Smart Route Finder (Dijkstra Algorithm in C)
 
 A simple yet powerful C-based project that finds the **shortest path between major locations in Chandigarh** using the **Dijkstra Algorithm**.
@@ -144,3 +150,4 @@ Developed by a Computer Science student as a mini-project to demonstrate graph a
 This project shows how **core computer science concepts like graphs and algorithms** can be applied to solve real-world navigation problems.
 
 If this helped or inspired you, consider improving it further 🚀
+
