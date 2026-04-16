@@ -3,6 +3,8 @@
 <a href="https://github.com/SanjeevJajor/GPS-Navigation-System.git/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=SanjeevJajor/GPS-Navigation-System.git" />
 </a>
+Sunayana Sinha 
+Arun Saini
 
 # 🚀 Chandigarh Smart Route Finder (Dijkstra Algorithm in C)
 
