@@ -19,6 +19,21 @@ int graph[N][N] = {
     {0,0,0,0,0,0,5,4,4,0,5,0,4},
     {0,0,0,0,0,0,0,0,3,7,0,4,0}
 };
+char *places[] = {
+    "Sector 17 Plaza",
+    "Rose Garden",
+    "PGI Hospital",
+    "Sukhna Lake",
+    "Rock Garden",
+    "Elante Mall",
+    "Sector 35 Market",
+    "Tribune Chowk",
+    "Chandigarh Railway",
+    "Chandigarh Airport",
+    "Panjab University",
+    "ISBT Bus Terminal",
+    "Mohali IT Park"
+};
 
 int minDistance(int dist[], bool visited[]) {
     int min = INT_MAX, min_index;
