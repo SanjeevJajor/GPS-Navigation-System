@@ -1,7 +1,5 @@
 # GPS-Navigation-System
 ### 👥 Contributors
-->Sunayana Sinha
-->Arun Saini
 <a href="https://github.com/SanjeevJajor/GPS-Navigation-System.git/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=SanjeevJajor/GPS-Navigation-System.git" />
 </a>
