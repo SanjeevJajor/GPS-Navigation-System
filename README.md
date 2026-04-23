@@ -142,7 +142,7 @@ Sector 17 Plaza -> Chandigarh University
 
 ## 👨‍💻 Author
 
-Developed by a Computer Science student as a mini-project to demonstrate graph algorithms in real-world scenarios.
+Developed by Sanjeev Jajor, Sunayana Sinha and Arun Saini as a mini-project to demonstrate graph algorithms in real-world scenarios.
 
 ---
 
